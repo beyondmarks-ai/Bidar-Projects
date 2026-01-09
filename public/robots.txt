@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bidarprojects.com/sitemap.xml
